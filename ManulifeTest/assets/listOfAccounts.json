@@ -1,0 +1,20 @@
+[
+    {
+        "id":10,
+        "display_name": "Chequing Account",
+        "account_number": "3157419",
+        "balance": 102406.86
+    },
+    {
+        "id":12,
+        "display_name": "Savings Account",
+        "account_number": "1157454",
+        "balance": -101.23
+    },
+    {
+        "id":19,
+        "display_name": "TFSA Account",
+        "account_number": "9257954",
+        "balance": 5192.19
+    }
+]

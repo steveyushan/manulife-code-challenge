@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="70.0dip"
+    android:drawingCacheQuality="high"
+    android:minHeight="70.0dip"
+    android:orientation="horizontal" >
+    <TextView
+  	  android:id="@+id/date" 
+	  android:layout_width="wrap_content"
+	  android:layout_height="wrap_content" 
+      android:gravity="center_vertical"
+      android:layout_marginStart="1dip"
+      android:textSize="10.0sp" 
+      android:marqueeRepeatLimit="marquee_forever"
+      android:focusable="true" />
+    <TextView
+  	  android:id="@+id/desciption" 
+	  android:layout_width="wrap_content"
+	  android:layout_height="wrap_content" 
+      android:gravity="center_vertical"
+      android:layout_marginStart="1dip"
+      android:textSize="10.0sp" 
+	  android:marqueeRepeatLimit="marquee_forever"
+      android:focusable="true" />
+	<TextView
+  	  android:id="@+id/withdrawal_amount" 
+	  android:layout_width="wrap_content"
+	  android:layout_height="wrap_content" 
+      android:gravity="center_vertical"
+      android:layout_marginStart="1dip"
+      android:textSize="10.0sp" 
+      android:marqueeRepeatLimit="marquee_forever"
+      android:focusable="true" />
+    <TextView
+  	  android:id="@+id/deposit_amount" 
+	  android:layout_width="wrap_content"
+	  android:layout_height="wrap_content" 
+      android:gravity="center_vertical"
+      android:layout_marginStart="1dip"
+      android:textSize="10.0sp" 
+      android:marqueeRepeatLimit="marquee_forever"
+      android:focusable="true" />
+	<TextView
+  	  android:id="@+id/balance" 
+	  android:layout_width="wrap_content"
+	  android:layout_height="wrap_content" 
+      android:gravity="center_vertical"
+      android:layout_marginStart="1dip"
+      android:textSize="10.0sp" 
+      android:marqueeRepeatLimit="marquee_forever"
+      android:focusable="true" />
+
+</LinearLayout>

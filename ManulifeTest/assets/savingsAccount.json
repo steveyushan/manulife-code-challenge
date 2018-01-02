@@ -1,0 +1,28 @@
+[
+    {
+        "date": "2017-12-04",
+        "activity": [
+            {
+           "id": 101,
+                "date": "2016-12-22",
+                "description": "Oliver Jewellers",
+                "withdrawal_amount": 1179.96,
+                "balance": -101.23,
+                "transaction_uid": 5347227288
+            }
+        ]
+    },
+    {
+        "date": "2017-12-01",
+        "activity": [
+            {
+                "id": 100,
+                "date": "2016-12-01",
+                "description": "Cheque #102",
+                "deposit_amount": 37.83,
+                "balance": 1078.73,
+                "transaction_uid": 9620390650
+            }
+        ]
+    }
+]

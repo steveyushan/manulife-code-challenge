@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="text_color_white">#ffffffff</color>
+    <color name="text_color_white_50">#80ffffff</color>
+    <color name="text_color_black">#ff000000</color>
+    <color name="background_transparent">#00000000</color>
+    <color name="background_black_80">#cc000000</color>
+    <color name="background_black_75">#c0000000</color>
+    <color name="background_white_80">#ccffffff</color>
+    <color name="background_white_50">#88ffffff</color>
+    <color name="background_seperator_line">#ff3b3b3b</color>
+    <color name="background_white">#ffffffff</color>
+    <color name="background_web_light_gray">#fffafafa</color>
+    <color name="selected">#ffe9f0f9</color>
+    <color name="transparent">#00000000</color>
+    <color name="checkbox_textcolor_black">#ff545454</color>
+    <color name="normal_textcolor_black">#ff333333</color>
+    <color name="normal_textcolor_gray">#ff969696</color>
+    <color name="normal_textcolor_red">#ffff0000</color>
+    <color name="normal_textcolor_blue">#ff3d97d5</color>
+
+    <!-- 播放中剧集列表 -->
+    <color name="player_playlist_text_color">#969696</color>
+
+    <!-- resolution selection Item -->
+    <color name="resolutionlist_text_color">#ff929292</color>
+
+    <!-- Settings -->
+    <color name="settings_item_divide">#ffdadfe2</color>
+    <color name="settings_title_bg">#ffefefef</color>
+    <color name="settings_title_divide">#ffcbcbcb</color>
+    <color name="settings_about_bg">#ffefefef</color>
+    <color name="settings_about_text_black">#ff545454</color>
+    <color name="settings_about_text_gray">#ff969696</color>
+
+    <!-- button -->
+    <color name="button_white_text_normal">#ffffff</color>
+    <color name="button_white_text_disable">#ff909090</color>
+    <!-- 影音书签页删除按钮 -->
+    <color name="button_browser_his_text_normal">#000000</color>
+    <color name="button_browser_his_text_pressed">#ff909090</color>
+    <!-- ffd2d2d2 -->
+    <color name="button_blue_text_normal">#ffffffff</color>
+    <color name="button_blue_text_disable">#ff9ac0f4</color>
+
+    <!-- other -->
+    <color name="listview_description_text">#ff545454</color>
+    <color name="listview_normal_divide">#ffe7e7e7</color>
+    <color name="listview_normal_bg">#fffafafa</color>
+    <color name="listview_normal_press">#fff5f5f5</color>
+
+    <!-- 电影详情页 -->
+    <color name="filter_divider_above_color">#cfd1d2</color>
+    <color name="filter_divider_below_color">#edefef</color>
+    <color name="dialog_btn_ok">#ffd6e6f5</color>
+    <color name="dialog_btn_cancel">#ff5c5c5c</color>
+
+    <!-- 热播页更多点击颜色 -->
+    <color name="hot_video_more_pressed">#c7cacc</color>
+    <color name="hot_video_more_normal">#63696d</color>
+
+    <!-- search -->
+    <color name="search_bar_btn_color">#ff373737</color>
+    <color name="search_bar_bg_light_line"> #ffd7d7d7</color>
+    <color name="black">#ff000000</color>
+    <color name="search_item_bg_color">#e3e6e7</color>
+    <color name="search_history_clear_all_bg_color">#d6d8d9</color>
+    <color name="search_history_clear_all_color">#1a90fc</color>
+    
+        <!-- 推荐 -->
+    <color name="recommended_rate_text_color">#adadc2</color>
+    <color name="recommended_normal_text_color">#adadc2</color>
+
+    <drawable name="render_item_selected">#F1F3F4</drawable>
+    <color name="player_seperator">#3b3b3b</color>
+    
+    <color name="caster_list_select">#33000000</color>
+    
+    <color name="caster_wifi_item_name">#e2e2e7</color>
+    <color name="caster_wifi_connected_item_name">#328df7</color>
+    
+    <color name="titlebar_menu_unclickable">#717577</color>
+    <color name="commit_bt_unclickable">#6986A4</color>
+    
+    <color name="recommend_tag">#2999e5</color>
+    <color name="titlebar_video_source">#b5b5b5</color>
+    
+        
+    <!-- 画面调节 -->
+    <color name="setting_disply_autofit_text">#6f96c1</color>
+    <color name="setting_display_tip_text">#ebebeb</color>
+    <color name="setting_display_bg_color">#2d2f3b</color>
+    
+    <color name="title_bar_background">#2e3241</color>
+    <color name="title_bar_vertical_line">#585b6a</color>
+    <color name="video_item_second_color">#c1c2c6</color>
+</resources>

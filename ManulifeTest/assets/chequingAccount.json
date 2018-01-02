@@ -1,0 +1,70 @@
+[
+    {
+        "date": "2017-12-22",
+        "activity": [
+            {
+           "id": 61,
+                "date": "2017-12-22",
+                "description": "Manulife Pay",
+                "deposit_amount": 1179.96,
+                "balance": 102406.86,
+                "transaction_uid": 5347227288
+            }
+        ]
+    },
+    {
+        "date": "2017-12-01",
+        "activity": [
+            {
+                "id": 60,
+                "date": "2017-12-01",
+                "description": "ALDO",
+                "withdrawal_amount": 37.83,
+                "balance": 102369.03,
+                "transaction_uid": 9620390650
+            }
+        ]
+    },
+    {
+        "date": "2017-11-30",
+        "activity": [
+            {
+                "id": 58,
+                "date": "2017-11-30",
+                "description": "McDonalds",
+                "withdrawal_amount": 56.66,
+                "balance": 102312.37,
+                "transaction_uid": 7980194686
+            },
+            {
+                "id": 59,
+                "date": "2017-11-30",
+                "description": "Armani Exchange",
+                "withdrawal_amount": 212.47,
+                "balance": 102099.9,
+                "transaction_uid": 6117556574
+            }
+        ]
+    },
+    {
+        "date": "2017-11-29",
+        "activity": [
+            {
+                "id": 56,
+                "date": "2017-11-29",
+                "description": "ABM Withdrawal",
+                "withdrawal_amount": 140.00,
+                "balance": 101959.9,
+                "transaction_uid": 2547088609
+            },
+            {
+                "id": 57,
+                "date": "2017-11-29",
+                "description": "Parking Ticket",
+                "withdrawal_amount": 174.07,
+                "balance": 101785.83,
+                "transaction_uid": 5347227288
+            }
+        ]
+    }
+]

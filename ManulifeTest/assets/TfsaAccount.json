@@ -1,0 +1,57 @@
+[
+    {
+        "date": "2017-12-01",
+        "activity": [
+            {
+                "id": 160,
+                "date": "2017-12-01",
+                "description": "Interest Posting",
+                "withdrawal_amount": 37.83,
+                "balance": 101226.9,
+                "transaction_uid": 9620390650
+            }
+        ]
+    },
+    {
+        "date": "2017-11-30",
+        "activity": [
+            {
+                "id": 158,
+                "date": "2017-11-30",
+                "description": "Interest Posting",
+                "withdrawal_amount": 56.66,
+                "balance": 101477.2,
+                "transaction_uid": 7980194686
+            },
+            {
+                "id": 159,
+                "date": "2017-11-30",
+                "description": "Interest Posting",
+                "withdrawal_amount": 212.47,
+                "balance": 101264.73,
+                "transaction_uid": 6117556574
+            }
+        ]
+    },
+    {
+        "date": "2017-11-29",
+        "activity": [
+            {
+                "id": 156,
+                "date": "2017-11-29",
+                "description": "Interest Posting",
+                "withdrawal_amount": 140.88,
+                "balance": 101707.93,
+                "transaction_uid": 2547088609
+            },
+            {
+                "id": 157,
+                "date": "2017-11-29",
+                "description": "Interest Posting",
+                "withdrawal_amount": 174.07,
+                "balance": 101533.86,
+                "transaction_uid": 5347227288
+            }
+        ]
+    }
+]

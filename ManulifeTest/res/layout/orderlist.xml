@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="70.0dip"
+    android:drawingCacheQuality="high"
+    android:minHeight="70.0dip"
+    android:orientation="horizontal" >
+
+    <TextView
+    	android:id="@+id/account_name" 
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 
+        android:gravity="center_vertical"
+        android:layout_marginStart="1dip"
+      	android:layout_centerVertical="true"
+        android:textStyle="bold"
+        android:textSize="10.0sp" />
+    <TextView 
+        android:id="@+id/account_num"
+ 		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"    
+		android:gravity="center_vertical"
+		android:layout_toEndOf="@id/account_name"  
+		android:layout_centerVertical="true"
+		android:textStyle="bold"
+        android:singleLine="true"
+        android:textSize="10.0sp"/>
+    <TextView 
+        android:id="@+id/balance"
+        android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 
+		android:gravity="center_vertical"
+		android:layout_alignParentEnd="true"
+      	android:layout_centerVertical="true"
+		android:textStyle="bold"
+        android:singleLine="true"
+        android:textSize="10.0sp" />
+
+</RelativeLayout>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+	<com.steve.manulifetest.ui.widget.TitleBar 
+        android:id="@+id/chequeacchistory_titlebar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+    	android:tag="@string/chequeacchistory" />
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal">
+	    <TextView 
+	        android:id="@+id/banner_date"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+      		android:layout_marginStart="1dip"
+      		android:textSize="10.0sp" 
+	        android:text="@string/banner_date" />
+		<TextView 
+	        android:id="@+id/banner_decription"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+      		android:layout_marginStart="1dip"
+      		android:textSize="10.0sp" 
+	        android:text="@string/banner_decription" />
+		<TextView 
+	        android:id="@+id/banner_withdrawal"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+      		android:layout_marginStart="1dip"
+      		android:textSize="10.0sp" 
+	        android:text="@string/banner_withdrawal" />
+		<TextView 
+	        android:id="@+id/banner_deposit"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+      		android:layout_marginStart="1dip"
+      		android:textSize="10.0sp" 
+	        android:text="@string/banner_deposit" />
+		<TextView 
+	        android:id="@+id/banner_balance"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+      		android:layout_marginStart="1dip"
+      		android:textSize="10.0sp" 
+	        android:text="@string/banner_balance" />
+	</LinearLayout>
+	<ListView 
+		android:id="@+id/cheque_listview"
+		android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:dividerHeight="1dp" />
+	
+</LinearLayout>

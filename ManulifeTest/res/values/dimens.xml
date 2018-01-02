@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    <!-- titlebar-->
+    <dimen name="titlebar_height">46dp</dimen>
+    <dimen name="titlebar_shadow_height">4dp</dimen>
+    
+    <dimen name="banner_pop_tip_height">40dp</dimen>
+    
+    <dimen name="search_bar_height">44dp</dimen>
+    
+    <dimen name="edit_button_width">50dip</dimen>
+
+</resources>
