@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-
-    <!-- Button正常状态下的背景 -->
-    <item android:drawable="@color/background_white" android:state_pressed="false"/>
-    <!-- Button按下时的背景 -->
-    <item android:drawable="@color/normal_textcolor_blue" android:state_pressed="true"/>
-</selector>
